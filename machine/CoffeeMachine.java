@@ -1,10 +1,10 @@
 package machine;
 public class CoffeeMachine {
     int totalWater;
-    int waterPerServe;
     int totalMilk;
-    int milkPerServe;
     int totalCoffeeBeans;
+    int waterPerServe;
+    int milkPerServe;
     int beansPerServe;
     int totalCups;
     int totalMoney;
